@@ -18,13 +18,13 @@
   
   <distributionManagement>
   <repository>
-  <id>cts-release</id>
+  <id>deployment</id>
   <name>cts-release</name>
   <url>http://54.229.46.21:8081/nexus/content/repositories/cts-release/</url>
   </repository>
  
   <snapshotRepository>
-<id>cts-snapshot</id>
+<id>deployment</id>
 <name>cts-snapshot</name>
 <url>http://54.229.46.21:8081/nexus/content/repositories/snapshots/</url>
 </snapshotRepository>
